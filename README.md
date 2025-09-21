@@ -61,10 +61,6 @@ A FastAPI backend for user registration, authentication, and workout logging.
 - `POST /login` — Login and get JWT token
 - `GET /users/me` — Get current user info (requires JWT)
 
-## Notes
-
-- Do not commit sensitive data (passwords, secret keys) to GitHub.
-- Extend the API with workout logging features as needed.
 
 ## License
 
